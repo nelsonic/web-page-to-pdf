@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/nelsonic/web-page-to-pdf/issues"
   },
-  "homepage": "https://github.com/nelsonic/web-page-to-pdf"
+  "homepage": "https://github.com/nelsonic/web-page-to-pdf",
+  "dependencies": {
+    "phantom": "^0.6.5"
+  }
 }
