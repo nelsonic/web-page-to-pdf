@@ -1,0 +1,26 @@
+{
+  "name": "web2pdf",
+  "version": "0.0.1",
+  "description": "Save any web page as PDF.",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nelsonic/web-page-to-pdf.git"
+  },
+  "keywords": [
+    "web",
+    "page",
+    "save",
+    "as",
+    "pdf"
+  ],
+  "author": "nelsonic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nelsonic/web-page-to-pdf/issues"
+  },
+  "homepage": "https://github.com/nelsonic/web-page-to-pdf"
+}
